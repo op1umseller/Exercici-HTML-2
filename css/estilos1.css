@@ -1,0 +1,28 @@
+body { 
+    background-color:#FDDBBD; 
+    font-family: sans-serif; 
+  }
+  
+  h1 { 
+    color: #B0B0B0;
+    text-transform: uppercase; 
+  }
+  
+  p { 
+    background-color: #F2D0AB;
+    border: 2px dashed; 
+    float: left;
+    height: 13em;
+    width: 13em; 
+    margin: 10px; 
+    overflow: auto; 
+    padding: 10px; 
+    
+  }
+  
+  p:first-letter { 
+    color: #C9A568; 
+    float: left; 
+    font-size: 300%; 
+  }
+  
